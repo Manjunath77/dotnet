@@ -20,7 +20,7 @@ End Code
     </section>
 End Section
 
-<h3>We suggest the following: Manjunadh</h3>
+<h3>We suggest the following: Manjunath 123</h3>
 <ol class="round">
     <li class="one">
         <h5>Getting Started:Project1</h5>
